@@ -170,26 +170,3 @@ Upload kode menggunakan Arduino IDE atau PlatformIO
 
 ---
 
-## 💡 Ide Pengembangan Lanjut
-
-* Tambahkan LCD/Nextion untuk kontrol lokal
-* Buzzer jika suhu ekstrem
-* Telegram/WhatsApp notification
-* ESP-NOW antar node
-* Mode darurat saat WiFi mati
-
----
-
-## ⚠️ Disclaimer
-
-Pastikan perangkat keras dan sambungan listrik telah diuji secara **aman** sebelum digunakan dalam waktu lama.
-
----
-
-## 📄 Lisensi
-
-MIT License
-
----
-
-Kalau kamu ingin saya bantu buatkan juga **file `platformio.ini`** atau file **contoh `Firebase` JSON struktur**, tinggal bilang aja!
